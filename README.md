@@ -1,6 +1,4 @@
 # AI-Powered-Email-Automation
-A no-code AI-powered email automation system for e-commerce customer support using AI and workflow tools.
-# AI-Powered-Email-Automation
 
 ## Overview
 This is a no-code AI-powered email automation system designed for e-commerce customer support. It automatically responds to customer emails using AI and a knowledge base.
