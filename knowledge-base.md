@@ -2,8 +2,8 @@
 
 ## Company Information
 - **Store Name:** NovaCart  
-- **Website:** www.NovaCart.com  
-- **Support Email:** support@NovaCart.com  
+- **Website:** www.NovaCartbd.com  
+- **Support Email:** support@NovaCartbd.com  
 - **Business Hours:** Monday to Friday, 9:00 AM – 6:00 PM (EST)
 
 ---
